@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://www.w3schools.com/w3images/avatar2.png",
+    "workTitle": "engineer",
+    "name": "Danny"
+  },
+  {
+    "imageUrl": "https://www.w3schools.com/howto/img_avatar.png",
+    "workTitle": "manager",
+    "name": "Ben"
+  },
+  {
+    "imageUrl": "https://www.w3schools.com/howto/img_avatar2.png",
+    "workTitle": "Marketing",
+    "name": "Dana"
+  },
+  {
+    "imageUrl": "https://www.w3schools.com/w3images/avatar6.png",
+    "workTitle": "Developer",
+    "name": "Reut"
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_7u75Cr6Wa3ZBajeL9Gf-Alu71YqLjClcBPwAT6-ngDUVs-C",
+    "workTitle": "Developer",
+    "name": "Shay"
+  }
+]
